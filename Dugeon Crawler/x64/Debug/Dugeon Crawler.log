@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\Dugeon Crawler\Dugeon Crawler\src\Functions.h(60,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Dugeon Crawler\Dugeon Crawler\src\Functions.h(36): warning C4715: 'GetRandomHealth': not all control paths return a value
+D:\Dugeon Crawler\Dugeon Crawler\src\Functions.h(53): warning C4715: 'GetRandomDamage': not all control paths return a value
+  Dugeon Crawler.vcxproj -> D:\Dugeon Crawler\x64\Debug\Dugeon Crawler.exe
